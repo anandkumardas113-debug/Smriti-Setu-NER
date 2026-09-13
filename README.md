@@ -1,0 +1,2 @@
+# Smriti-Setu-NER
+An AI-powered, offline-first cognitive and memory assistance platform designed for elderly dementia patients, featuring adaptive gaming, regional localization, voice interaction, and a dedicated caregiver dashboard
